@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Calculator_Operators {
+public class Airthmetic_Operators {
 
     public static void main(String[] args) {
         int a, b, c, ch;
